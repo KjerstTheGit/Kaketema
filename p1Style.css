@@ -1,0 +1,27 @@
+html {background-image: url(cupcakes.png)}
+body {
+	color: #565656;
+	max-width: 700px;
+	margin: auto;
+	background-color: rgba(255,255,255,0.90);
+	padding: 40px;
+}
+h1 {
+	font-family: helvetica, arial, sans-serif;
+}
+
+h2 {
+	font-family: helvetica, arial, sans-serif;
+}
+
+h3 {
+	font-family: helvetica, arial, sans-serif;
+}
+
+h4 {font-family: georgia,times new roman, serif;
+}
+
+p,li { 
+	font-family: georgia, times new roman, serif;
+	font-size: 16px;
+	}
