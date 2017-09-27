@@ -1,4 +1,4 @@
-html {background-image: url(../img/cupcakes.png)}
+html {background-image: url('../img/cupcakes.png')}
 body {
 	color: #565656;
 	max-width: 700px;
