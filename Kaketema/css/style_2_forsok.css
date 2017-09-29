@@ -1,5 +1,7 @@
 
-
+html{
+	background-color: #DFFADD;
+}
 body {
 	color: #565656;
 	max-width: 700px;
