@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>TeMaKake project 1</title>
+<link rel= "stylesheet" type="text/css" href="css/p1Style.css">
+</head>
+
+<body>
+	<h1> TeMaKaKe</h1>
+	<h2> P1: Project Requirements </h2>
+	<h3>About us </h3>
+	<p>
+	Kjersti Bjelkarøy <br>
+	Karoline Rye Finckenhagen <br>
+	Tuva Elise Haddal <br>
+	Mina Maria Wikant <br>
+	All from MTDESIG
+	</p>
+	<h3>Client</h3>
+	<p>Our client, The Cake Leasing Co. is an imaginary startup which delivers the exact ingredients needed to bake a specific cake, together with any equipment the customer might need. The head of marketing and IT is our contact in the company.
+	</p>
+	<h3>Purpose and goals</h3>
+	<p>The <b>purpose</b> of the website is to make it easy for baking enthusiasts to get hold of the right amount of ingredients and type of equipment needed for making a desired cake or baked good. A lot of cakes and baked goods require ingredients or equipment that are hard to find in regular grocery stores, or only come in bigger quanta than the one needed for the recipe. At the same time cakes and baked goods often require equipment that only have one purpose and therefore can be perceived as expensive and space consuming. On the website it will be possible to buy measured packages of ingredients and lease equipment, freeing the baker from the hesitancy caused by investment- or space problems.</p> 
+	<p>The website’s <b>goal</b> is to inspire baking enthusiasts to test out new recipes and baking equipment, and become their prefered supplier of all they need when baking. This will be accomplished by offering tempting pictures of the total variety of cakes and baking goods available. Every recipe will have a ready-to-order list of measured ingredients and equipment, where you can deselect everything you already have in your kitchen, before ordering all of it home. The order and detailed recipe will be delivered at your home, and the equipment will be picked up again after you finish baking. Your preferences with this can be managed through the website, and if you are satisfied with some of the equipment you can choose to buy it. 
+	</p>
+	<h3>Audience</h3>
+	<p>The user of the website is someone who likes to bake and that does not own many types of equipment, or do not want to own or buy many different ingredients that would rarely be used other than for a specific baking project. The users wish to create appealing, cool and tasty cakes without being forced to invest in special equipment and ingredients that would rarely be used again, or that would take up a lot of space. Examples: spices, food colouring, cake-decorating tools and space-consuming equipment. In addition, some ingredients could expire because the user did not need all of it. This would be throwing money out the window.</p>
+	<h4>Persona of a typical user</h4>
+
+	<ul>
+		<li>Name: Martina Olsen (21)</li>
+		<li>Occupation: Student</li>
+	</ul>
+
+	<p>Busy 21-year-old student that spends a lot of her free time together with her volleyball team, either at practices or just by being social. She shares a kitchen with four others in a student flat. In the cupboard, she has two shelves for her dry ingredients and spices; in other words, not a lot of room. On the other hand, Martina likes to bake and will occasionally bring a cake to a social event. However, she is tired of always making the same kinds of cakes and would like to challenge herself a bit - especially since she has seen a particularly nice-looking cake on instagram - but knows that 1) She’ll need some special equipment that she can’t afford and 2) She doesn’t have enough shelf space for the equipment or ingredients in the shared kitchen. So, she ends up making one of her standard cakes once again, and continues drooling over the beautiful cakes she sees on her instagram feed... ”
+	</p>
+	
+
+
+	<p>Needs:</p>
+	<ul>
+		<li>Getting inspiration on-site</li>
+		<li>See the level of difficulty on each recipe</li>
+		<li>Order cake ingredients and equipment on-site</li>
+		<li>Deselect the ingredients and equipment you already own, and have the prices adjusted accordingly </li>
+		<li>Same or next-day delivery</li>
+		<li>Equipment pick-up after ended use + deposit agreement?</li>
+	</ul>
+
+	<h3>Content and Organization</h3>
+	<h4>Landing page</h4>
+	<p>The landing page will contain a menu with all the options below, in addition to opting the user to “start” their baking process by showing indulging and inviting images of cakes, and proving the following features: <br>
+	Search: Search among recipes in The Cake Leasing Company’s database of recipes. The customer will have the option to search for hashtags, word in recipe or name of cake.<br>
+	Filter: The possibility to arrange recipes after difficulty, popularity, price and time estimation.
+	</p>
+	<h4>“About Us”</h4>
+	<p>This section will provide information about The Cake Leasing Company as well as a short bio on its founders. To ensure the credibility of the company, we will provide links to mentions of the company in the media, as well as awards they have won (for their recipes).</p>
+	<h4>Prices and packages</h4>
+		<ul>
+		<li>Delivery times and options</li>
+		<li>Price examples for different types of packages based on level of difficulty and the amount of equipment and ingredients needed</li>
+		<li>Images of what you will receive in a package from The Cake Leasing Company, including:</li>
+		<ol>
+			<li>Ingredients</li>
+			<li>Equipment</li>
+			<li>Packaging</li>
+			<li>Returning used equipment</li>
+			</ol>
+		</ul>
+	<h4>Contact and FAQs</h4>
+	<p>In this section, the customer will be able to contact The Cake Leasing Company via email, telephone and a question form. In FAQ, important questions should be answered, such as price estimations, areas of delivery etc.
+	</p>
+	<h4>Instagram image carousel</h4>
+	<p>At the bottom of the landing page there will be a carousel of images from instagram that has the hashtag #thecakeleasingco, so that customers can see that the service is meant for everyday people, and that beautiful and tasty cakes can be made on a budget.</p>
+	<h3>Specific requirements/preferences</h3>
+	<ul>
+		<li>The client wants a potential customer to quickly and easily be able to find a recipe they would like to try (high usability)</li>
+		<li>The site should communicate professionalism and trustworthiness (a potential customer should not leave the site because it doesn’t look credible)</li>
+		<li>The site should be well organized and uncluttered (we should incorporate enough whitespace)</li>
+		<li>The customer must find information about prices quickly, as this is crucial information for the target audience</li>
+	</ul>
+	<h3>Maintenance of site, difficulties</h3>
+	<p>Since this is an imaginary client, there will not actually be any site maintenance and we will use the folk.ntnu.no server to host the website. 
+The functionality that the client wants for the ordering might be a bit challenging in reality. This will probably require a database that the website collects the recipes from, and this has to be easy to edit, as recipes will be added relatively frequently, and possibly also by someone who does not have any programming skills. Ideally, the code, and the database should be separate, so that it is not easy to mess up the code in the process of editing recipes.
+The customer will also have to pay on the webpage, which might be a challenge for us to program in a way that is safe for the customer.
+</p>
+<h3>Ideas for future development:</h3>
+<p>These are ideas the client has for the site that we probably won’t have time to implement during this semester:<br>
+<br>
+
+<b>Sign in</b><br>
+In this section, the customer will be able to register and sign in. When logged in, the user is able to write reviews on recipes, save recipes as favourites and mark recipes as “baked”.<br>
+
+<b>Reviews</b><br>
+Write reviews on recipes, and read other user’s reviews.
+</p>
+
+</body>
+</html>
