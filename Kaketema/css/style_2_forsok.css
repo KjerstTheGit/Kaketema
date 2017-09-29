@@ -1,8 +1,18 @@
 
-
-
 #startViewImage {
   margin: auto;
   width: 100%;
   height: auto;
+}
+
+body {
+	color: #565656;
+	max-width: 700px;
+	margin: auto;
+	background-color: rgba(255,255,255,0.90);
+	padding: 40px;
+}
+
+h1 {
+	font-family: helvetica, arial, sans-serif;
 }
